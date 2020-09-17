@@ -7,7 +7,7 @@ Check the mockups folder and create a pixel perfect clone!
 
 Link
 
-https://awais-malik716.github.io/23-may-task-slack/
+https://beingawaisali.github.io/23-may-task-slack/
 
 Download android app here:
 
